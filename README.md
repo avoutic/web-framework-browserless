@@ -11,7 +11,7 @@ composer require avoutic/web-framework-browserless
 ## Requirements
 
 - PHP 8.2 or higher
-- WebFramework 8.x
+- WebFramework 10 to 12
 - A Browserless service instance
 
 ## Configuration
